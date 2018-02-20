@@ -12,7 +12,7 @@ nvm install 9
 
 sudo apt-get install nginx
 
-wget https://raw.githubusercontent.com/Snazzyham/Server-Setup/master/.tmux.conf
-wget https://raw.githubusercontent.com/Snazzyham/Server-Setup/master/.vimrc
+wget https://raw.githubusercontent.com/Snazzyham/server-dotfiles/master/.tmux.conf
+wget https://raw.githubusercontent.com/Snazzyham/server-dotfiles/master/.vimrc
 
 npm install -g serve
